@@ -4,3 +4,6 @@ In the near future, I hope to start adding my own projects to this repository as
 
 I also participated in a group project where we created a nutritional fitness tracker app using the Swift language.
 https://github.com/John-Anthony-L/The-Nutritional-Slug
+
+Using Unity, I created a real-time rendered 3D concert experience with a group which features raymarching and volumetric fog effects.
+https://github.com/dylansalak/AllTheSmoke
